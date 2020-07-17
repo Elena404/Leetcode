@@ -161,7 +161,7 @@ SET mrg=0
 WHERE empno=250;
 ```
 
-#### 删除记录
+### 删除记录
 
 `delete from t_name [where clause]`
 
